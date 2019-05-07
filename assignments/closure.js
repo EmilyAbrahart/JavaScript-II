@@ -42,3 +42,6 @@ const factoryCounter = counterFactory();
 
 console.log(factoryCounter.increment());
 console.log(factoryCounter.increment());
+console.log(factoryCounter.increment());
+console.log(factoryCounter.increment());
+console.log(factoryCounter.decrement());
